@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: circular;
+    src: url(..images/circular.otf);
+}
+@font-face {
+    font-family: memy;
+    src: url(..images/memy.otf);
+}
